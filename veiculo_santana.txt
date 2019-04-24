@@ -1,8 +1,0 @@
-create table veiculo(
-
-   id varchar (10),
-   capacidade numeric(10,2),
-   latitude numeric(10,2),
-   longitude numeric(10,2),
-   tipoVeiculo varchar(3)
-); 
