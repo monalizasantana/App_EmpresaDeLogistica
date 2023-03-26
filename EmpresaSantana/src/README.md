@@ -29,8 +29,13 @@ ruas ortogonais da região, ou seja, através de deslocamentos sobre o eixo X e 
 (distância entre pontos é dada pela distância Manhattan). Já os drones se deslocam em
 linha reta (distância euclidiana).
 
+## Linguagem de Programação usada desenvolver a aplicação 
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />    
+
+
 ## FUNCIONALIDADE OPCIONAL
 
 → Inserção de Veículos Autônomos
 
 → UI baseada em janelas
+
